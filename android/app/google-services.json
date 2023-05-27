@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158008347436",
+    "project_id": "uautnews-28ae4",
+    "storage_bucket": "uautnews-28ae4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158008347436:android:81863c65f3fa70fa963a89",
+        "android_client_info": {
+          "package_name": "com.example.uaut_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158008347436-h57abr466uulaectmdmrm6hnf4gf7jt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSJWQQQULCh-Nko4nnBpPTcDrWHXR1b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158008347436-h57abr466uulaectmdmrm6hnf4gf7jt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
